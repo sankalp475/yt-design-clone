@@ -312,8 +312,11 @@ body {
 	bottom: 0;
 	display: flex;
 	flex-direction: column;
+	padding: 0 5px;
 }
-
+div.icon-home div.home {
+	fill: black !important;
+}
 .icon-home,
 .icon-Shorts,
 .icon-Subscription,
