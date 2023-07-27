@@ -308,7 +308,7 @@ body {
 	width: 72px;
 	position: fixed;
 	top: 55px;
-	left: 2px;
+	left: 0px;
 	bottom: 0;
 	display: flex;
 	flex-direction: column;
